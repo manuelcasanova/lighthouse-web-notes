@@ -2,4 +2,5 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Manuel for the Lighhouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Manuel](https://github.com/manuelcasanova) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
